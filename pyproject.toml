@@ -1,0 +1,10 @@
+[project]
+name = "document-reading-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "docling>=2.14.0",
+    "weaviate-client>=4.10.2",
+]
